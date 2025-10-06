@@ -18,7 +18,7 @@ Cursor feels like having an AI co-developer who understands your context without
 
 ## Mobile Apps
 
-### [Anything](https://createanything.com)
+### [Anything](https://www.createanything.com/?via=maddie)
 If I want to build a mobile app straight from the browser, this is where I go. It’s easy to move fast without feeling boxed in, and it gives me a quick sense of how something might look or feel on a phone.
 
 ### [Natively](https://natively.dev)
