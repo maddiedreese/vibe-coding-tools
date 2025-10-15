@@ -8,7 +8,7 @@ Here’s what I’m using right now, depending on what I’m building and how te
 
 ## Web Apps
 
-### [Lovable](https://lovable.dev)
+### [Lovable](https://lovable.dev/?via=maddie)
 If I had to pick one tool that perfectly fits my brain, it’s Lovable. It’s made for people who want to build fast, visually, and still end up with something real. I like that it doesn’t assume I want to go deep into code every time, but still gives me access to structure when I need it. I use it for most of my projects.
 
 ### [Cursor](https://cursor.com)
@@ -21,7 +21,7 @@ Cursor feels like having an AI co-developer who understands your context without
 ### [Anything](https://www.createanything.com/?via=maddie)
 If I want to build a mobile app straight from the browser, this is where I go. It’s easy to move fast without feeling boxed in, and it gives me a quick sense of how something might look or feel on a phone.
 
-### [Natively](https://natively.dev)
+### [Natively](https://natively.dev/?ref=maddie)
 Clean, modern, and doesn’t make you jump through hoops to test or publish.
 
 ### [Rork](https://rork.com) and [VibeCode](https://vibecodeapp.com)
