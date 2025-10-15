@@ -31,7 +31,7 @@ Both of these let you build mobile apps inside mobile apps — which is pretty c
 
 ## In-Between Zone
 
-### [Bolt](https://bolt.new)
+### [Bolt](https://bolt.new/?rid=fnvgwa)
 Bolt is ideal for “semi-technical” builds. It’s what I use when I know I’ll probably need to open a terminal at some point — maybe to install a package or deploy manually — but I still want the speed and structure of a visual editor. It’s also great for websites that need a bit of backend logic without becoming full-stack chaos.
 
 ---
